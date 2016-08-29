@@ -1,0 +1,26 @@
+{
+  "name": "weather-app-angular",
+  "description": "Weather app using Angular",
+  "main": "",
+  "authors": [
+    "Luciano Oliveira"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "angular": "*",
+    "angular-route": "*",
+    "angular-animate": "*",
+    "bootstrap": "*",
+    "modernizr": "*",
+    "moment": "*"
+  }
+}
